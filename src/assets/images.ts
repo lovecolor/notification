@@ -1,0 +1,5 @@
+export { ReactComponent as CreateAccountImage } from "./images/create-account.svg"
+export { ReactComponent as ForgotPasswordImage } from "./images/forgot-password.svg"
+export { ReactComponent as Quote } from "./images/quote.svg"
+export { ReactComponent as NewHabitImage } from "./images/new-habit.svg"
+export { ReactComponent as HabitImage } from "./images/habit-image.svg"

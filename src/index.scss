@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Klasik";
+  font-display: swap;
+  src: url(./assets/fonts/Klasik-Regular.otf);
+}
+
+@font-face {
+  font-family: "Manrope";
+  font-display: swap;
+  src: url(./assets/fonts/Manrope-Regular.ttf);
+}
+
+@font-face {
+  font-family: "ManropeBold";
+  font-display: swap;
+  src: url(./assets/fonts/Manrope-Bold.ttf);
+}
+
+body {
+  font-family: Manrope;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

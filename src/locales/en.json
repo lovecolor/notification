@@ -1,0 +1,174 @@
+{
+  "habit": {
+    "login": {
+      "title": "WELCOME TO MONUMENTAAL HABITS",
+      "actions": {
+        "login": "Login",
+        "loginWithGoogle": "Continue with Google",
+        "loginWithFacebook": "Continue with Facebook",
+        "show": "Show",
+        "hide": "Hide",
+        "forgotPassword": "Forgot Password?",
+        "signUp": "Sign up"
+      },
+      "labels": {
+        "email": "Email",
+        "password": "Password",
+        "formTitle": "Login with email",
+        "dontHaveAccount": "Don't have account?"
+      },
+      "messages": {
+        "loginSuccess": "Login Success!",
+        "emailIsRequired": "Email is required",
+        "emailIsInvalid": "Email is invalid",
+        "passwordIsRequired": "Password is required"
+      }
+    },
+    "signUp": {
+      "title": "Create Your Account",
+      "actions": {
+        "createAccount": "Create Account",
+        "signIn": "Sign In",
+        "show": "Show",
+        "hide": "Hide"
+      },
+      "labels": {
+        "alreadyHaveAccount": "Alredy have an account?",
+        "signInWith": "Or sign in with",
+        "keepMeSignIn": "Keep me signed in",
+        "notifyEmail": "Email me about special pricing and more",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "passWord": "Password",
+        "email": "Email"
+      },
+      "messages": {
+        "signUpSuccess": "You have signed up successfully.",
+        "emailIsRequired": "Email is required",
+        "emailIsInvalid": "Email is invalid",
+        "passwordIsRequired": "Password is required",
+        "firstNameIsRequired": "First name is required",
+        "lastNameIsRequired": "Last name is required"
+      }
+    },
+    "changePassword": {
+      "title": "Change Your Password",
+      "actions": {
+        "changePassword": "Change password",
+        "login": "Login",
+        "show": "Show",
+        "hide": "Hide"
+      },
+      "labels": {
+        "description": "Enter your code,email and new password below to change your password",
+        "newPassword": "New password",
+        "rememberPassword": "Remember password?",
+        "email": "Email",
+        "code": "Code"
+      },
+      "messages": {
+        "changePasswordSuccess": "Your password has been changed successfully.",
+        "emailIsRequired": "Email is required",
+        "emailIsInvalid": "Email is invalid",
+        "passwordIsRequired": "Password is required",
+        "codeIsRequired": "Code is required"
+      }
+    },
+    "forgotPassword": {
+      "title": "FORGOT YOUR PASSWORD?",
+      "labels": {
+        "formTitle": "Enter your registered email below to receive password reset instruction",
+        "rememberPassword": "Remember password?",
+        "email": "Email"
+      },
+      "actions": {
+        "sendResetLink": "Send Reset Link",
+        "login": "Login"
+      },
+      "messages": {
+        "requestResetPasswordSuccess": "Please check your email for the code!",
+        "emailIsRequired": "Email is required",
+        "emailIsInvalid": "Email is invalid"
+      }
+    },
+    "newHabit": {
+      "title": "New Habit",
+      "labels": {
+        "enterHabitName": "Enter habit name",
+        "firstGoals": "First goals",
+        "goals": "Goals",
+        "reminderWeekdays": "Reminder Weekdays",
+        "reminder": "Reminders",
+        "statisticType": "Statistic Type",
+        "startThisHabit": "START THIS HABIT",
+        "description": "ullamco laboris nisi ut aliquip ex ea commodo consequat dolore. ",
+        "mon": "MON",
+        "tue": "TUE",
+        "sun": "SUN",
+        "wed": "WED",
+        "thu": "THU",
+        "fri": "FRI",
+        "sat": "SAT",
+        "type": "Type",
+        "bad": "Bad",
+        "good": "Good",
+        "on": "On",
+        "off": "Off"
+      },
+      "messages": {
+        "addNewHabitSuccess": "Add new habit success!",
+        "nameIsRequired": "Name is required",
+        "goalIsRequired": "Goal is required"
+      },
+      "actions": {
+        "addReminder": "Add Reminder",
+        "detail": "Detail"
+      }
+    },
+    "home": {
+      "title": "Home",
+      "labels": {
+        "habits": "HABITS"
+      }
+    },
+    "habitDetail": {
+      "labels": {
+        "analytics": "Analytics",
+        "longestStreak": "Longest Streak",
+        "currentStreak": "Current Streak",
+        "completionRate": "Completion Rate",
+        "averageEasinessScore": "Average Easiness Score",
+        "reminders": "Reminders: ",
+        "days": "DAYS",
+        "congratulations": "Congratulations!",
+        "popupDescription": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris!"
+      },
+      "actions": {
+        "markHabitAsComplete": "Mark Habit as Complete",
+        "markHabitAsMissed": "Mark Habit as Missed",
+        "createNewHabit": "Create New Habit",
+        "continue": "Continue"
+      }
+    },
+    "statisticType": {
+      "daily": "Repeat everyday",
+      "weekly": "Repeat everyweek",
+      "monthly": "Repeat everymonth"
+    },
+    "profile":{
+      "title":"Profile",
+      "labels":{
+        "name":"Name",
+        "last7Days":"Last 7 days",
+        "taskCompleted":"Task Completed",
+        "today":"Today",
+        "day":"Day",
+        "days":"Days"
+      },
+      "actions":{
+        "billingMethods":"Billing methods",
+        "longestStreak":"Longest Streak"
+      }
+    }
+  }
+}
